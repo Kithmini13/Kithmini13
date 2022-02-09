@@ -17,11 +17,11 @@
 
 <p align="left">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/chamidupriyankara/">
+<a href="https://linkedin.com/in/kithmini-kaushalya-36a81520a">
   <img  alt="LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a> 
   &nbsp;&nbsp;
-<a href="https://www.facebook.com/chamidu.messenger/">
+<a href="https://www.facebook.com/">
   <img  alt="Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />
 </a>
   &nbsp;&nbsp;
