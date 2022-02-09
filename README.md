@@ -1,12 +1,11 @@
 
 <h1 align="center">Hi I'm Kithmini 👋 </h1>
 
-<h3 align="center"> An undergraduate at Sri Lanka Institute of Information Technology </h3>
+<h4 >I'm an undergraduate at Sri Lanka Institute of Information Technology </h4>
 
-<br>
-- 🔭 I’m currently following BSc(Hons) in Information Technology Specializing in Data Science Enginnering
+- 🎓 I’m currently following BSc(Hons) in Information Technology Specializing in Data Science Enginnering
 - 🌱 I’m currently learning about Data Science✌
-- 📫 How to reach me: kithminikaushalya19991113@gmail.com
+- ✉ How to reach me: **kithminikaushalya19991113@gmail.com**
 
 <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -32,16 +31,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-  <hr>
+ <hr>
 <p align="center">
 <code><img height="35" src="https://user-images.githubusercontent.com/88779731/151743758-60751ac3-6a6d-443d-a7de-72f17754a7c1.png"></code> <!-- react     -->
 <code><img height="35" src="https://user-images.githubusercontent.com/88779731/151714624-1c372407-93d9-4d47-98da-f53fd2c9524e.png"></code> <!-- node      -->
