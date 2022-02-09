@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently following BSc(Hons) in Information Technology Specializing in Data Science Enginnering
 - 🌱 I’m currently learning about Data Science✌
-- - 📫 How to reach me: kithminikaushalya19991113@gmail.com
+- 📫 How to reach me: kithminikaushalya19991113@gmail.com
 
 <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -18,10 +18,9 @@ Here are some ideas to get you started:
 ### Connect with me:
 
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/kithmini-kaushalya-36a81520a)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/kithmini-kaushalya-36a81520a)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com)
-[![website](./img/instagram-dark.svg)](https://instagram.com)
+
 
 ### Languages and Tools:
 
