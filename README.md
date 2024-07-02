@@ -3,7 +3,7 @@
 
 <h4 >I'm an undergraduate at Sri Lanka Institute of Information Technology </h4>
 
-- 🎓 I’m currently following BSc(Hons) in Information Technology Specializing in Data Science Enginnering
+- 🎓 I’m currently following BSc(Hons) in Information Technology Specializing in Data Science
 - 🌱 I’m currently learning about Data Science✌
 - ✉ How to reach me: **kithminikaushalya19991113@gmail.com**
 
@@ -17,7 +17,7 @@
 
 <p align="left">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://linkedin.com/in/kithmini-kaushalya-36a81520a">
+<a href="https://www.linkedin.com/in/kithmini-ranathunga-36a81520a/">
   <img  alt="LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a> 
   &nbsp;&nbsp;
@@ -25,7 +25,7 @@
   <img  alt="Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />
 </a>
   &nbsp;&nbsp;
-<a href="#">
+<a href="https://www.instagram.com/_kith_mi_ni_/?hl=en">
   <img  alt="Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />
 </a>
 
