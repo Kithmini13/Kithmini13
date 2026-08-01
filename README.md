@@ -1,11 +1,14 @@
-
 <h1 align="center">Hi I'm Kithmini 👋 </h1>
+<h4 align="center">Data Engineer | Business Intelligence Engineer</h4>
 
-<h4 >I'm an undergraduate at Sri Lanka Institute of Information Technology </h4>
-
-- 🎓 I’m currently following BSc(Hons) in Information Technology Specializing in Data Science
-- 🌱 I’m currently learning about Data Science✌
-- ✉ How to reach me: **kithminikaushalya19991113@gmail.com**
+- 💼 I'm currently working as a **Business Intelligence and Data Engineer** at **Nations Trust Bank**
+- 🎓 I'm currently pursuing my **M.Sc. in Big Data Analytics** at Robert Gordon University, Aberdeen, United Kingdom
+- 🏆 I hold a **B.Sc. (Hons) in Information Technology, specializing in Data Science** from SLIIT
+- 🔧 I build ETL pipelines, cloud-based data solutions, and BI dashboards across banking & fintech
+- 🌱 I'm currently learning more about cloud-native data architecture and real-time analytics ✌
+- 📝 Published research: *Behavior Analysis of Drivers Using Machine Learning* — IRJIET, November 2023
+- 🌐 Portfolio: [kithmini13.github.io/Portfolio](https://kithmini13.github.io/Portfolio/)
+- ✉ How to reach me: **kithminiranathunga13@gmail.com**
 
 <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,40 +17,43 @@
 - ⚡ Fun fact: ...-->
 
 ### Connect with me:
-
 <p align="left">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/kithmini-ranathunga-36a81520a/">
+<a href="https://www.linkedin.com/in/kithminiranathunga-36a81520a/">
   <img  alt="LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a> 
+</a>
   &nbsp;&nbsp;
-<a href="https://www.facebook.com/">
-  <img  alt="Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />
+<a href="https://kithmini13.github.io/Portfolio/">
+  <img  alt="Portfolio" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googlechrome.svg" />
 </a>
   &nbsp;&nbsp;
 <a href="https://www.instagram.com/_kith_mi_ni_/?hl=en">
   <img  alt="Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />
 </a>
+</p>
 
-### Languages and Tools:
+### Technical Skills:
+<hr>
 
- <hr>
+**Programming Languages:** Python · R · SQL
+
+**Data Visualization & Analytics:** Power BI · Tableau · MS Excel · Machine Learning · ETL Development
+
+**Cloud Platforms:** AWS (S3, Lambda, EKS, EC2, RDS) · Azure (ADF, Databricks, Synapse)
+
+**Database Handling:** Oracle SQL · MySQL · MS SQL · PostgreSQL
+
+**Big Data & Other Tools:** Hive · Spark · Hadoop · Jira · GitHub · Postman · Bitbucket
+
 <p align="center">
-<code><img height="35" src="https://user-images.githubusercontent.com/88779731/151743758-60751ac3-6a6d-443d-a7de-72f17754a7c1.png"></code> <!-- react     -->
-<code><img height="35" src="https://user-images.githubusercontent.com/88779731/151714624-1c372407-93d9-4d47-98da-f53fd2c9524e.png"></code> <!-- node      -->
-<code><img height="35" src="https://user-images.githubusercontent.com/88779731/151714284-9de0e45e-ed7d-48bd-a9a2-28505eb805f2.png"></code> <!-- html      -->
-<code><img height="35" src="https://user-images.githubusercontent.com/88779731/151714644-28238a7f-e603-4803-81d0-5b6f1117238e.jpg"></code> <!-- java      -->
-<code><img height="35" src="https://user-images.githubusercontent.com/88779731/151714757-3df4e7c4-c0f1-46ba-b3f5-6174b0dbdd58.png"></code> <!-- JS        -->
-<code><img height="35" src="https://user-images.githubusercontent.com/88779731/151714805-befdd44b-99ed-4235-9f41-a3a0a3c4eaba.png"></code> <!-- bootstrap -->
-<code><img height="35" src="https://user-images.githubusercontent.com/88779731/151714889-808b52f3-da5d-49c8-bd13-72707163f222.png"></code> <!-- C++       -->
 <code><img height="35" src="https://user-images.githubusercontent.com/88779731/151748359-e0b2553d-0bef-46bb-833c-564dda90670d.png"></code> <!-- python    -->
-<code><img height="35" src="https://user-images.githubusercontent.com/88779731/151714918-ddfd46ec-0064-4e2e-b81e-64e02de530b0.png"></code> <!-- CSS       -->
-<code><img height="35" src="https://user-images.githubusercontent.com/88779731/151743345-e72b3cbe-94e7-4af2-886c-89685906ce8a.jpg"></code> <!-- php       -->
-<code><img height="35" src="https://user-images.githubusercontent.com/88779731/151752272-eec8f814-8770-4aba-8f7e-9f6504e3472c.png"></code> <!-- phpMyAdmin-->
 <code><img height="35" src="https://user-images.githubusercontent.com/88779731/151743400-865a2d8a-bf79-424a-9d94-61a964011ecf.png"></code> <!-- mySQL     -->
 <code><img height="35" src="https://user-images.githubusercontent.com/88779731/151748954-51145cbc-0900-4434-9f0e-8a3d422ef6cf.png"></code> <!-- mongoDB   -->
-<code><img height="35" src="https://user-images.githubusercontent.com/88779731/151743481-86021ece-34ef-4d59-bb3b-afc57e871dae.png"></code> <!-- firebase  -->
 </p>
 
 <br />
+
+### Currently Building:
+- 🚀 **Techno Events** – Cloud-native microservice platform on AWS EKS with real-time analytics (ClickHouse, Grafana) and CI/CD Blue-Green deployment
+
 <br />
